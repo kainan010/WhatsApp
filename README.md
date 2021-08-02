@@ -4,7 +4,9 @@
 
 
 <h3 align="left">Whatsapp Mock</h3>
-
+<p align="center">
+   <img src="https://github.com/kainan010/WhatsApp/blob/main/whatsapp.gif" width="300" >  
+</p>
 
 ### Features
 
